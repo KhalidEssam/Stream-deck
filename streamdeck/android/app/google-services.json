@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "358013701716",
+    "project_id": "streamdeck-0",
+    "storage_bucket": "streamdeck-0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358013701716:android:9d3f09f4f1c084163827c1",
+        "android_client_info": {
+          "package_name": "com.example.streamdeck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358013701716-cduiujo14bn275ojgccnhefodkbl6dnq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtNYjp4kg1F3lz6Xt6wBl1KTeO58b6YkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358013701716-cduiujo14bn275ojgccnhefodkbl6dnq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
